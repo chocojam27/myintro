@@ -1,0 +1,73 @@
+.templateView.bg-bluee { background-color: #6699cc; }
+.templateView.bg-bluee.t2 .d-flex { background-color: #fff; margin-top: 100px; padding-top: 1px; }
+.templateView.bg-bluee.t2 .d-flex .profile-image { width: 25%; padding: 20px; text-align: center; margin-top: -100px; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .imageHolder { width: 100%; text-align: center; margin: 0 auto; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .imageHolder img { border-radius: 100%; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .textContents { margin-bottom: 20px; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .textContents p { color: #000; margin-bottom: 0px; font-size: 23px; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .textContents h2 { color: #000; margin-bottom: 0px; font-size: 50px; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .textContents li { margin-bottom: 0px; font-size: 25px; }
+.templateView.bg-bluee.t2 .d-flex .profile-image .textContents li a { color: #000; }
+.templateView.bg-bluee.t2 .d-flex .profile-about { width: 85%; margin-left: 50px; padding: 20px; }
+.templateView.bg-bluee.t2 .videoHolder { background-color: #fff; padding: 60px 50px; text-align: center; }
+.templateView.bg-bluee.t2 .videoHolder .videos { margin: 1%; width: 20%; height: auto; background-color: #363636; border-radius: 15px; padding: 10px; }
+.templateView.bg-bluee.t2 .videoHolder .videos iframe { width: 100%; height: auto; min-height: 300px; }
+.templateView.bg-bluee.t2 .videoHolder .videos video { width: 100%; height: auto; min-height: 300px; }
+.templateView.bg-bluee.t3 .d-flex .imageHolder { width: 25%; padding: 20px; }
+.templateView.bg-bluee.t3 .d-flex .imageHolder img { max-width: 100%; width: 100%; }
+.templateView.bg-bluee.t3 .d-flex .profileContents { width: 25%; padding: 20px; margin-left: 20px; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .btn-pink { background-color: #fff; border: 5px solid #ebebeb; color: #000; font-weight: 900; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .textContents { margin-bottom: 20px; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .textContents p { color: #fff; margin-bottom: 0px; font-size: 23px; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .textContents h2 { color: #fff; margin-bottom: 0px; font-size: 50px; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .textContents ul { padding: 5px; background: #fff; border: 5px solid #ebebeb; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .textContents ul li { margin-bottom: 0px; font-size: 20px; padding: 0px 3%; }
+.templateView.bg-bluee.t3 .d-flex .profileContents .textContents ul li a { color: #000; }
+.templateView.bg-bluee.t3 .d-flex .bioContents { width: 50%; margin-left: 20px; padding: 20px; }
+.templateView.bg-bluee.t3 .d-flex .bioContents p { color: #fff; }
+.templateView.bg-bluee.t3 .d-flex .bioContents h2 { color: #fff; }
+.templateView.bg-bluee.t3 .videoHolder { padding: 60px 20px; text-align: center; }
+.templateView.bg-bluee.t3 .videoHolder .videos { width: 24%; height: auto; background-color: #363636; border-radius: 15px; padding: 10px; }
+.templateView.bg-bluee.t3 .videoHolder .videos iframe { width: 100%; height: auto; min-height: 300px; }
+.templateView.bg-bluee.t3 .videoHolder .videos video { width: 100%; height: auto; min-height: 300px; }
+.templateView.bg-bluee.t4 .d-flex .profileContents { width: 40%; text-align: center; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .imageHolder { width: 50%; padding: 20px; text-align: center; margin: 0 auto; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .imageHolder img { max-width: 100%; width: 100%; border-radius: 100%; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .textContents { text-align: center; margin-bottom: 20px; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .textContents p { color: #fff; margin-bottom: 0px; font-size: 23px; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .textContents h2 { color: #fff; margin-bottom: 0px; font-size: 50px; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .textContents ul { padding: 5px; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .textContents ul li { margin-bottom: 0px; font-size: 20px; padding: 0px 3%; }
+.templateView.bg-bluee.t4 .d-flex .profileContents .textContents ul li a { color: #fff; }
+.templateView.bg-bluee.t4 .d-flex .videoHolder { padding: 0px 20px; width: 60%; text-align: center; }
+.templateView.bg-bluee.t4 .d-flex .videoHolder .videos { width: 40%; margin: 20px 20px; height: auto; background-color: #363636; border-radius: 15px; padding: 10px; }
+.templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe { width: 100%; height: auto; min-height: 220px; }
+.templateView.bg-bluee.t4 .d-flex .videoHolder .videos video { width: 100%; height: auto; min-height: 220px; }
+.templateView.bg-bluee.t4 .d-flex .bioContents { width: 50%; margin-left: 20px; padding: 20px; }
+.templateView.bg-bluee.t4 .d-flex .bioContents p { color: #fff; }
+.templateView.bg-bluee.t4 .d-flex .bioContents h2 { color: #fff; }
+.templateView.bg-bluee.t4 .bioContents { width: 100%; margin-left: 20px; padding: 20px 60px; }
+.templateView.bg-bluee.t4 .bioContents p { color: #fff; }
+.templateView.bg-bluee.t4 .bioContents h2 { color: #fff; }
+
+.templateView.t5 { background-color: #fff; }
+.templateView.t5 .d-flex .first { width: 25%; padding: 20px; background-color: #fff; text-align: center; }
+.templateView.t5 .d-flex .first .profileContents { margin: 50% auto; }
+.templateView.t5 .d-flex .first .profileContents .imageHolder { width: 80%; padding: 20px; text-align: center; margin: 0 auto; }
+.templateView.t5 .d-flex .first .profileContents .imageHolder img { max-width: 100%; width: 100%; border-radius: 100%; }
+.templateView.t5 .d-flex .first .profileContents .textContents { text-align: center; margin-bottom: 20px; }
+.templateView.t5 .d-flex .first .profileContents .textContents p { color: #000; margin-bottom: 0px; font-size: 23px; }
+.templateView.t5 .d-flex .first .profileContents .textContents h2 { color: #000; margin-bottom: 0px; font-size: 50px; }
+.templateView.t5 .d-flex .first .profileContents .textContents ul { padding: 5px; }
+.templateView.t5 .d-flex .first .profileContents .textContents ul li { margin-bottom: 0px; font-size: 20px; padding: 0px 3%; }
+.templateView.t5 .d-flex .first .profileContents .textContents ul li a { color: #000; }
+.templateView.t5 .d-flex .second { background-color: #1d9cd6; width: 75%; }
+.templateView.t5 .d-flex .second .videoHolder { padding: 0px 20px; text-align: center; }
+.templateView.t5 .d-flex .second .videoHolder .videos { width: 40%; margin: 20px 20px; height: auto; background-color: #363636; border-radius: 15px; padding: 10px; }
+.templateView.t5 .d-flex .second .videoHolder .videos iframe { width: 100%; height: auto; min-height: 285px; }
+.templateView.t5 .d-flex .second .videoHolder .videos video { width: 100%; height: auto; min-height: 285px; }
+.templateView.t5 .d-flex .second .bioContents { margin-left: 20px; padding: 20px; }
+.templateView.t5 .d-flex .second .bioContents p { color: #fff; }
+.templateView.t5 .d-flex .second .bioContents h2 { color: #fff; }
+
+/*# sourceMappingURL=styleTemp.css.map */

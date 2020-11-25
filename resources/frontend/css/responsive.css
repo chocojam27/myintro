@@ -1,0 +1,1195 @@
+/* RESPONSIVE CSS HERE */
+
+@media (min-width: 1650px) {
+	.container {
+		max-width: 1600px;
+	}
+}
+
+@media (min-width: 2560px) {
+	.contents {
+	    max-width: 2022px;
+	    position: relative;
+	    margin: 0 auto;
+	    overflow-y: hidden;
+	}
+
+	.banner-home {
+	    height: 90vh;
+	}
+}
+
+@media (max-width: 1650px) {
+	.upgradeRow form label {
+	    font-size: 16px;
+	}
+
+	.upgradeRow form select {
+	    padding: 7px 18px;
+	}
+
+	.upgradeRow form input.form-control,
+	.upgradeRow form select {
+		font-size: 18px;
+	}
+
+	.upgradeRow form input.form-control {
+	    margin: 16px 0px;
+	    padding: 5px 12px;
+	}
+
+	.upgradeRow .secondDiv .listHolder ul li {
+	    font-size: 20px;
+	}
+
+	.upgradeRow .secondDiv h5 {
+	    font-size: 22px;
+	}
+
+	.upgradeRow .secondDiv .priceHolder .price {
+	    font-size: 70px;
+	}
+
+	.upgradeRow .secondDiv .priceHolder .price span {
+	    font-size: 38px;
+	}
+
+	.upgradeRow .secondDiv .priceHolder p {
+	    font-size: 18px;
+	}
+
+	.upgradeRow .secondDiv .priceHolder h4 {
+	    font-size: 30px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .topInput {
+	    padding: 30px;
+	    padding-top: 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .form-control {
+	    font-size: 18px;
+	    padding: 6px 24px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .topInput .form-inline label {
+	    font-size: 20px;
+	    margin-right: 10px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .btnPink,
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .saveGenerate {
+		font-size: 20px;
+		padding: 6px 40px;
+		border-radius: 5px;
+	}
+
+	.section-planspricing {
+	    padding-bottom: 46px !important;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .form-control.fullname {
+	    width: 65%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .btn-remadd {
+	    font-size: 26px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline select {
+	    margin-right: 10px;
+	    padding: 7.9px !important;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-group .form-control,
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .form-control {
+	    padding: 6px 10px;
+	    font-size: 18px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic {
+	    padding-top: 30px;
+	    width: 80%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .nxt-con .next {
+	    font-size: 20px;
+	    padding: 6px 40px;
+	    border-radius: 5px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-prev img,
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-next img {
+		width: 72px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .item-theme {
+	    height: 194px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile-title .btn-upload-photo {
+	    font-size: 18px;
+	    padding: 12px 25px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile {
+	    height: 268px;
+	    width: 268px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li:after {
+	    width: 150px;
+	    height: 3px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li {
+	    padding-right: 150px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li span {
+	    width: 48px;
+	    height: 48px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li span p {
+		font-size: 20px;
+	}
+
+	.section-pricing-usd .table thead th {
+	    padding-top: 50px;
+	    padding-bottom: 25px;
+	    font-size: 18px;
+	}
+
+	.section-pricing-usd .table tbody tr td {
+		font-size: 18px;
+	}
+
+	.section-pricing-usd .table thead th:first-child,
+	.section-pricing-usd .table tbody tr td:first-child {
+	    padding-left: 50px;
+	}
+
+	.section-pricing-usd .table thead th:last-child,
+	.section-pricing-usd .table tbody tr td:last-child {
+	    padding-right: 50px;
+	}
+
+	.label-container .checkmark:after {
+	    left: 7px;
+	    top: 3px;
+	    width: 8px;
+	    height: 13px;
+	}
+
+	.section-login .label-container {
+	    font-size: 18px;
+	    margin: 18px 0;
+	    padding-left: 45px;
+	}
+
+	.checkmark {
+	    height: 26px;
+	    width: 26px;
+	}
+
+	.section-planspricing ul li p.discover {
+	    font-size: 10px;
+	    bottom: 10px;
+	}
+
+	.btn-sign-up,
+	.section-planspricing ul li h5 span {
+	    font-size: 12px;
+	}
+
+	header .header-bg .navbar .nav-item .nav-link,
+	p,
+	.section-gya ul li p,
+	.section-planspricing ul li h4,
+	.section-planspricing ul li p,
+	.section-planspricing ul li .btn,
+	footer ul li a,
+	footer p {
+	    font-size: 14px;
+	}
+
+	.section-create-page-tab .container .tab-content .btn-create-page,
+	#DataTableID_wrapper .dataTables_info,
+	#DataTableID_wrapper .paginate_button {
+		font-size: 16px;
+	}
+
+	.section-contact-us .container form .form-group .form-control,
+	.section-create-page-tab .container .nav-pills li a,
+	.section-create-page-tab .container .tab-content table th,
+	.section-create-page-tab .container .tab-content table td,
+	#DataTableID_wrapper #DataTableID_filter label,
+	#DataTableID_wrapper #DataTableID_filter label .form-control,
+	.section-create-page-tab .container .tab-content table th:after,
+	.section-create-page-tab .container .tab-content table th:before,
+	.section-login .sign-up-p,
+	.section-login .forgot-password {
+		font-size: 14px;
+	}
+
+	.section-gya ul li h4,
+	.section-planspricing ul li h5,
+	.section-contact-us .container form .form-group .btn-send {
+	    font-size: 20px;
+	}
+
+	h1,
+	.section-gya ul li .fa {
+	    font-size: 26px;
+	}
+
+	h2 {
+	    font-size: 28px;
+	}
+
+	.heading h3 {
+	    font-size: 178px;
+	}
+
+	.heading p {
+	    width: 50%;
+	}
+
+	.banner-home .container .row .middle-div p,
+	.section-planspricing .circle-before p {
+	    width: 72%;
+	}
+
+	.heading h2 {
+	    padding-top: 25px;
+	}
+
+	.section-contact-us .container form .form-group .form-control.icon {
+	    padding-left: 54px;
+	}
+
+	.section-contact-us .container form .form-group .fa {
+	    left: 18px;
+	    font-size: 20px;
+	}
+
+	.section-contact-us .container form .form-group .form-control {
+	    border-radius: 10px;
+	    padding: 10px 26px;
+	}
+
+	#DataTableID_wrapper {
+	    padding: 20px 12px 50px;
+	}
+
+	.fixed-header .header-bg .navbar {
+	    padding: 14px 0;
+	}
+
+	.section-create-page-tab .container .tab-content .btn-create-page {
+	    padding: 14px 16px;
+	}
+
+	footer {
+	    padding: 30px 0;
+	}
+
+	.section-mfe {
+	    padding: 42px 0;
+	}
+
+	.section-gya ul {
+	    margin-top: 60px;
+	}
+
+	.padding-114-0 {
+	    padding: 70px 0;
+	}
+
+	header .header-bg .navbar .nav-item {
+	    padding: 0 30px;
+	}
+
+	.footer-bg {
+		background-size: 100% 100%;
+		padding-bottom: 218px;
+	}
+
+	header .header-bg:after {
+	    height: 248px;
+	    background-size: cover;
+	}
+
+	.navbar-brand img {
+		width: 140px;
+	}
+
+	.section-gya:before {
+	    height: 206px;
+	    width: 128px;
+	}
+
+	.section-gya:after {
+	    height: 228px;
+	    width: 118px;
+	}
+
+	.section-02 .office-01:after {
+	    width: 108px;
+	    height: 108px;
+	    border: 16px solid #c046e3;
+	}
+
+	.dashed-line:before {
+	    top: -196px;
+	    width: 350px;
+	    height: 418px;
+	}
+
+	.dashed-line:after {
+		width: 350px;
+	    height: 418px;
+	    bottom: -196px;
+	}
+
+	.section-feature .container-fluid .row-2:before {
+	    height: 227px;
+	    width: 130px;
+	}
+
+	.section-feature .container-fluid .row-3:after {
+	    width: 160px;
+	    height: 285px;
+	}
+
+	.section-feature .container-fluid .row-3:before {
+	    top: -20%;
+	    left: -60px;
+	    width: 80px;
+	    height: 80px;
+	    border: 16px solid #c046e3;
+	}
+
+	.section-feature .container-fluid .row-1:before {
+	    width: 80px;
+	    height: 80px;
+	    border: 16px solid #c046e3;
+	}
+
+	.section-feature .container-fluid .row-1:after {
+	    right: -348px;
+	    width: 500px;
+	    height: 500px;
+	    border: 100px solid #c046e3;
+	}
+
+	.section-create-page-tab:before {
+	    left: -40px;
+	    width: 80px;
+	    height: 80px;
+	    border: 16px solid #c046e3;
+	}
+
+	.section-login .sl:before {
+	    height: 370px;
+	    width: 176px;
+	}
+
+	.section-login .sl:after {
+	    bottom: 100px;
+	    right: -180px;
+	    width: 320px;
+	    height: 320px;
+	    border: 60px solid #c046e3;
+	}
+
+	.section-create-page-tab .container:before {
+	    height: 380px;
+	    width: 186px;
+	}
+
+	.section-create-page-tab:after {
+	    width: 284px;
+	    height: 284px;
+	    border: 50px solid #c046e3;
+	}
+
+	.section-02 .office-02:before {
+	    top: -210px;
+	    left: -260px;
+	    width: 405px;
+	    height: 405px;
+	    border: 98px solid #c046e3;
+	}
+
+	.section-02 .office-02:after {
+	    left: 35%;
+	    width: 180px;
+	    height: 180px;
+	}
+
+	.section-planspricing .circle-before:before {
+	    width: 68px;
+	    height: 68px;
+	    border: 14px solid #c046e3;
+	}
+
+	.section-planspricing ul li {
+	    margin: 0 30px;
+	    width: 220px;
+	    border-radius: 15px;
+	    padding: 45px 15px 40px;
+	}
+
+	.section-planspricing ul:after {
+	    top: -95px;
+	    right: 19%;
+	    width: 192px;
+	    height: 192px;
+	    border: 42px solid #c046e3;
+	}
+
+	.section-planspricing:before {
+	    bottom: 45px;
+	    left: -96px;
+	    width: 192px;
+	    height: 192px;
+	    border: 42px solid #c046e3;
+	}
+
+	.footer-bg .sign-up-form h2 {
+	    font-size: 38px;
+	}
+
+	.footer-bg .sign-up-form .btn-signforfree {
+	    font-size: 14px;
+	    padding: 10px 12px;
+	}
+
+	.section-create-page-tab .container .nav-pills li a {
+	    min-width: 180px;
+	    padding: 12px 26px;
+	    border-top: 10px solid #c046e3;
+	}
+
+	footer ul li a {
+	    margin: 0 15px;
+	}
+
+	.footer-bg .sign-up-form {
+	    padding: 46px;
+	    border-radius: 16px;
+	}
+
+	footer p {
+	    margin-top: 10px;
+	}
+
+	.section-planspricing:after {
+	    width: 158px;
+	    height: 298px;
+	}
+
+	.section-contact-us .container form .form-group .btn-send {
+	    border-radius: 10px;
+	    padding: 8px 12px;
+	}
+
+	.img-recaptcha {
+		width: 382px;
+	}
+
+	.no-content {
+	    height: 620px;
+	}
+
+	.section-contact-us .container:before {
+		width: 68px;
+		height: 68px;
+		border: 14px solid #c046e3;
+	}
+
+	.section-contact-us .container form:after {
+	    top: 50px;
+	    right: -142px;
+	    width: 284px;
+	    height: 284px;
+	    border: 50px solid #c046e3;
+	}
+
+	.section-contact-us:after {
+		right: 0;
+	    bottom: 2%;
+	    height: 302px;
+	    width: 154px;
+	}
+}
+
+@media (max-width: 1024px) {
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .form-control.fullname {
+	    width: 59%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .btn-remadd.fc- {
+	    margin: 0 10px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile-title .btn-upload-photo img {
+	    margin-right: 5px;
+	    width: 12%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile-title .btn-upload-photo {
+	    font-size: 16px;
+	    padding: 10px 18px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li {
+	    padding-right: 100px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li:after {
+	    width: 100px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile {
+	    height: 220px;
+	    width: 220px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .item-theme {
+	    height: 240px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-next {
+	    right: -60px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-prev {
+	    left: -60px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-prev img, .section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-next img {
+	    width: 50px;
+	}
+
+	.pl-con {
+	    padding-left: 7%;
+	}
+
+	.pr-con {
+	    padding-right: 7%;
+	}
+
+	.section-feature .container-fluid .row-1:after,
+	.dashed-line:before,
+	.dashed-line:after {
+		display: none;
+	}
+
+	#DataTableID_wrapper .row:nth-child(2) table {
+		width: 1110px !important;
+	}
+
+	#DataTableID_wrapper .row:nth-child(2) {
+		overflow-x: scroll;
+	}
+
+	.section-create-page-tab .container .nav-pills li a,
+	.section-create-page-tab .container .tab-content table th,
+	.section-create-page-tab .container .tab-content table td {
+		font-size: 16px;
+	}
+
+	.section-create-page-tab .container .nav-pills li a {
+	    min-width: 194px;
+	}
+
+	.section-create-page-tab:after {
+		right: 0;
+	}
+
+	.img-recaptcha {
+	    width: 290px;
+	}
+
+	.no-content {
+	    height: 414px;
+	}
+
+	.footer-bg .sign-up-form {
+		width: 60%;
+	}
+
+	.footer-bg {
+	    padding-bottom: 165px;
+	}
+
+	.footer-bg .sign-up-form h2 {
+	    font-size: 30px;
+	}
+}
+
+@media (max-width: 991px) {
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline.CopyBtnHolder .btnPink {
+		font-size: 18px;
+		padding: 4px 30px;
+	}
+	.container {
+	    max-width: 100%;
+	}
+
+	.section-gya ul li {
+	    width: 25%;
+	}
+
+	header .header-bg:after {
+	    height: 182px;
+	}
+
+	header .header-bg .navbar .nav-item:last-child {
+	    padding-right: 15px;
+	}
+
+	header .header-bg .navbar .nav-item {
+ 	   padding: 0 15px;
+	}
+
+	header.headerWhite .header-bg .navbar .nav-item:last-child .nav-link {
+	    color: #fff;
+	    background-color: #c046e3;
+	    border: 1px solid #c046e3;
+	}
+
+	.navbar-nav .nav-link {
+	    padding-right: 26px;
+	    padding-left: 26px;
+	}
+
+	.banner-home .container .be-memorable {
+	    right: 15px;
+	}
+
+	.pl-con {
+	    padding-left: 0;
+	}
+
+	.pr-con {
+	    padding-right: 0;
+	}
+}
+
+@media (max-width: 768px) {
+
+
+	.upgradeRow {
+	    padding: 0 15px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .thirdPage .GenerateForm .form-inline .btnPink {
+		font-size: 18px;
+		padding: 6px 30px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .thirdPage .GenerateForm .saveGenerate {
+		font-size: 18px;
+		padding: 10px 35px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .thirdPage .GenerateForm .form-control {
+		font-size: 15px;
+		padding: 10px 25px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .btn-remadd.fc- {
+	    margin-left: 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .form-control.fullname {
+		width: 72%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar {
+	    padding: 8px 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li {
+	    padding-right: 80px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li:after {
+	    width: 80px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li span p {
+	    font-size: 16px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li span {
+	    width: 38px;
+	    height: 38px;
+	}
+
+	.section-login .sl:before {
+		display: none;
+	}
+
+	.section-login .label-container {
+	    font-size: 14px;
+	    padding-left: 34px;
+	}
+
+	.section-login .forgot-password {
+	    font-size: 16px;
+	}
+
+	.label-container .checkmark:after {
+	    left: 7px;
+	    top: 2px;
+	    width: 6px;
+	    height: 11px;
+	}
+
+	.checkmark {
+	    height: 22px;
+	    width: 22px;
+	}
+
+	.section-create-page-tab .container .nav-pills li a {
+	    min-width: auto;
+	}
+
+	.section-create-page-tab .container .tab-content .btn-create-page {
+	    padding: 10px 12px;
+	}
+
+	.section-contact-us .container form .form-group .form-control {
+	    font-size: 16px;
+	}
+
+	.section-contact-us .container:before {
+	    left: 15px;
+	}
+
+	.section-contact-us .container form:after {
+	    display: none;
+	}
+
+	.section-contact-us .container form .form-group .btn-send {
+	    font-size: 18px;
+	}
+
+	.no-content {
+	    height: 307px;
+	}
+
+	.section-contact-us .container form {
+	    width: 90%;
+	    margin: 0 auto 50px;
+	}
+
+	footer {
+	    padding: 18px 0;
+	}
+
+	.footer-bg .sign-up-form {
+	    padding: 28px;
+	    border-radius: 10px;
+	}
+
+	.section-gya ul li {
+	    width: 40%;
+	}
+
+	.footer-bg {
+	    padding-bottom: 78px;
+	}
+
+	.footer-bg .sign-up-form h2 {
+	    font-size: 26px;
+	}
+
+	h1, .section-gya ul li .fa {
+	    font-size: 24px;
+	}
+}
+
+@media (max-width: 767px) {
+	.section-contact-us .container form {
+	    width: 90%;
+	    margin: 0 auto 0;
+	}
+
+	.upgradeRow .secondDiv {
+	    padding-top: 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .tox.tox-tinymce {
+	    width: 100%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .saveGenerate {
+		font-size: 18px;
+		padding: 9px 36px;
+		border-radius: 5px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .btnPink {
+		font-size: 18px;
+		border-radius: 5px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .form-control {
+		margin: 14px 0;
+		font-size: 18px;
+		padding: 8px 18px;
+	}
+
+	.topInput{
+		text-align: left !important;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .nxt-con .next {
+	    font-size: 18px;
+	    padding: 4px 30px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme {
+	    padding-bottom: 50px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form {
+	    padding: 0 0 50px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile-title {
+	    width: 40%;
+	}
+
+	.section-feature .container-fluid .row-1 .feature-pl,
+	.section-feature .container-fluid .row-3 .feature-pl {
+	    padding-left: 0;
+	}
+
+	.section-create-page-tab .container .tab-content .btn-create-page {
+	    position: relative;
+	}
+
+	.section-planspricing ul li {
+	    margin: 0 30px 20px;
+	}
+
+	h2 {
+	    font-size: 22px;
+	}
+
+	.heading p {
+	    width: 80%;
+	}
+
+	.padding-114-0 {
+	    padding: 40px 0;
+	}
+
+	.section-02 .office-02:after {
+		display: none;
+	}
+
+	.section-feature .middle-div {
+	    z-index: 1;
+	    position: relative;
+	    top: unset;
+	    -ms-transform: none;
+	    -webkit-transform: none;
+	    -moz-transform: none;
+	    -o-transform: none;
+	    transform: none;
+	    margin-top: 20px;
+	}
+
+	.banner-home .middle-div {
+	    z-index: 1;
+	    position: relative;
+	    top: unset;
+	    -ms-transform: none;
+	    -webkit-transform: none;
+	    -moz-transform: none;
+	    -o-transform: none;
+	    transform: none;
+	    margin-top: 155px;
+	}
+
+	.section-02 .office-01 .middle-div,
+	.section-02 .office-02 .middle-div {
+	    width: 100%;
+	    position: relative;
+	    top: unset;
+	    -ms-transform: none;
+	    -webkit-transform: none;
+	    -moz-transform: none;
+	    -o-transform: none;
+	    transform: none;
+	    margin: 20px 0;
+	}
+}
+
+@media (max-width: 600px) {
+	.upgradeRow form .form-inline {
+	    width: 100%;
+	    display: block;
+	    position: relative;
+	}
+
+	.form-inline .form-check {
+	    justify-content: left;
+	    padding-bottom: 14px;
+	}
+
+	.form-inline .form-check:last-child {
+	    padding-bottom: 0;
+	}
+
+	.py-4.my-3 {
+		display: none;
+	}
+
+	.upgradeRow .secondDiv .priceHolder,
+	.upgradeRow .secondDiv .listHolder {
+	    padding: 0;
+	}
+}
+
+@media (max-width: 425px) {
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .btnPink,
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .saveGenerate {
+	    font-size: 16px;
+	}
+
+	.btnHolder{
+		text-align: center !important;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .saveGenerate {
+		margin: 10px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .btnPink {
+		margin: 10px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .thirdPage .GenerateForm .form-inline .btnPink {
+		width: 80%;
+		margin: 10px 0;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .thirdPage .GenerateForm .saveGenerate {
+		font-size: 15px;
+		padding: 10px 15px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline.CopyBtnHolder .btnPink {
+		font-size: 18px;
+		padding: 4px 30px;
+		width: 100%;
+		margin: 10px 0;
+	}
+	.switcher .form-inline h5 {
+		font-size: 1.15rem;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .switcher .slider:before {
+		height: 15px;
+		width: 15px;
+		left: 4px;
+		bottom: 4px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .switcher input:checked + .slider:before {
+		-webkit-transform: translateX(20px);
+		-ms-transform: translateX(20px);
+		transform: translateX(20px);
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .switcher .switch {
+		width: 45px;
+		height: 23px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline select {
+	    margin-right: 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .form-control.fullname {
+	    width: 100%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li {
+	    padding-right: 25px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .li-progress-bar li:after {
+		width: 25px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-prev {
+	    left: -35px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-next {
+	    right: -35px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme {
+	    padding: 0 25px 25px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile-title .btn-upload-photo {
+		position: relative;
+		margin-top: 10px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile {
+	    margin: 0 auto 20px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex .profile-title {
+	    width: 100%;
+	    text-align: center;
+	    margin-left: 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .d-flex {
+	    margin-bottom: 30px;
+	    display: block !important;
+	}
+
+	.padding-114-0 {
+	    padding: 20px 0;
+	}
+
+	.section-pricing-usd .table tbody tr td {
+	    font-size: 14px;
+	}
+
+	.section-pricing-usd .table thead th {
+		font-size: 16px;
+	}
+
+	.footer-bg .sign-up-form h2 {
+	    font-size: 20px;
+	}
+
+	#exTab1 .nav {
+		display: block;
+	}
+
+	.section-create-page-tab .container .nav-pills li a {
+	    width: 100%;
+	}
+
+	.section-create-page-tab .container .nav-pills li {
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.no-content {
+	    height: 155px;
+	}
+
+	.banner-home {
+	    height: 90vh;
+	}
+
+	.footer-bg {
+	    background-size: cover;
+	}
+
+	.footer-bg .sign-up-form .btn-signforfree {
+		border-radius: 8px;
+	    padding: 10px;
+	}
+
+	.section-planspricing ul li {
+	    margin: 0 0 20px;
+	    width: 80%;
+	}
+
+	.footer-bg .sign-up-form {
+		width: 100%;
+	}
+
+	.banner-home:after {
+	    height: 14%;
+	}
+
+	header .header-bg .navbar {
+	    padding: 30px 0;
+	}
+
+	header .header-bg:after {
+	    height: 165px;
+	    width: 60%;
+	}
+
+	.banner-home .middle-div {
+	    margin-top: 130px;
+	}
+
+	.section-gya ul li {
+	    width: 100%;
+	    margin: 0 0 15px;
+	}
+}
+
+@media (max-width: 375px) {
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .btnPink {
+	    margin: 3px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .saveGenerate {
+	    margin: 7px 0;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .secondPage .saveGenerate {
+	    padding: 9px 30px;
+	}
+
+	.switcher .form-inline h5 {
+		font-size: .9rem;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .switcher .slider:before {
+		height: 15px;
+		width: 15px;
+		left: 4px;
+		bottom: 4px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .switcher input:checked + .slider:before {
+		-webkit-transform: translateX(10px);
+		-ms-transform: translateX(10px);
+		transform: translateX(10px);
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .switcher .switch {
+		width: 35px;
+		height: 23px;
+	}
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-group .form-control, .section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-inline .form-control {
+	    font-size: 16px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-prev {
+	    left: -16px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-next {
+	    right: -16px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .nxt-con .next {
+	    font-size: 16px;
+	    padding: 4px 20px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic .profile-form .form-group .form-control {
+	    font-size: 16px;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .upload-pic {
+	    width: 90%;
+	}
+
+	.section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-prev img, .section-create-page-tab .container .tab-content .tab-pane .owl-profile-theme .owl-nav .owl-next img {
+	    width: 36px;
+	}
+}

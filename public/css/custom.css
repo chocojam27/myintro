@@ -1,0 +1,6 @@
+table.td-center td { vertical-align: middle; }
+
+.custom-padding-url span { position: absolute; top: 50%; transform: translateY(-50%); left: 15px; }
+.custom-padding-url input.pl-url { padding-left: 120px; }
+
+/*# sourceMappingURL=custom.css.map */

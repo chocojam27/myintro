@@ -1,0 +1,729 @@
+@media(min-width:1920px){
+    .templateSec .controls#c2 .templatePicker .templateBox { height: 315px; }
+}
+@media(max-width:1600px){
+    /* template 5 */
+    .templateView.t5 .d-flex .second .videoHolder .videos {
+        width: 46%;
+        margin: 1%;
+    }
+    .templateView.t5 .d-flex .second .videoHolder {
+        padding: 20px;
+    }
+    .templateView.t5 .d-flex .second .videoHolder .videos video,
+    .templateView.t5 .d-flex .second .videoHolder .videos iframe {
+        min-height: 380px;
+    }
+    /* t5end */
+    /* template 3 */
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents h2 {
+       font-size: 45px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .imageHolder img {
+        max-width: 100%;
+        width: 100%;
+        object-fit: cover;
+        height: 45vh;
+    }
+    /* t3end */
+     /* template 2 */
+     .templateView.bg-bluee.t2 .videoHolder .videos iframe {
+        min-height: 205px;
+    }
+     .templateView.bg-bluee.t2 .videoHolder .videos video {
+        min-height: 205px;
+    }
+     .templateView.bg-bluee.t2 .d-flex .profile-about {
+        margin-left: 5px;
+    }
+     .templateView.bg-bluee.t2 .d-flex .profile-image .textContents h2 {
+        font-size: 30px;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image .textContents p {
+        font-size: 16px;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image .textContents li {
+        font-size: 20px;
+    }
+    /* t2end */
+    .row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .templateSec .controls#c5 .Icons .socialIconHolder .socialList .socialItem {
+        width: 25%;
+        padding: 10px;
+    }
+    .btn-pink {
+        font-size: 18px;
+    }
+    .upload .drag-text h3{
+        font-size: 20px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem.selected {
+        border: 3px solid #adadad;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 40px;
+        height: 25px;
+        border-radius: 5px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem.selected {
+        border: 3px solid #adadad;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 40px;
+        height: 40px;
+        border-radius: 5px;
+    }
+    /* template 1 */
+    .templateSec .templateView {
+        min-height: 200px;
+        padding: 45px 20px;
+        width: 100%;
+        transition: .5s;
+    }
+    .templateSec .templateView .items.profileContents .textContents h2 {
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 35px;
+    }
+    .templateSec .templateView .items.profileContents .textContents p {
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 18px;
+    }
+    .templateSec .templateView .items.profileContents .textContents li {
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .templateSec .templateView .btn-pink {
+        font-size: 18px;
+        padding: 5px 20px;
+    }
+    .templateSec .controls .titleHolder h2 {
+        font-size: 30px;
+    }
+    .templateSec .templateView .items {
+        padding: 0px 25px;
+    }
+    .templateSec .controls .navHolder .sideA {
+        font-size: 23px;
+    }
+    .templateSec .floatingButton .btn-pink {
+        padding: 0px 12px;
+        font-size: 30px;
+    }
+}
+@media(max-width:1440px){
+    /* template 5 */
+    .templateView.t5 .d-flex .first {
+        padding: 0px;
+    }
+    .templateSec .templateView.t5 {
+        padding: 20px;
+    }
+    .templateView.t5 .d-flex .first .profileContents .textContents ul li {
+        font-size: 18px;
+        padding: 0px 2%;
+    }
+    .templateView.t5 .d-flex .first .profileContents .textContents h2 {
+        font-size: 30px;
+    }
+    .templateView.t5 .d-flex .first .profileContents .textContents p {
+
+        font-size: 16px;
+    }
+    .templateView.t5 .d-flex .second .videoHolder .videos video, .templateView.t5 .d-flex .second .videoHolder .videos iframe {
+        min-height: 336px;
+    }
+    /* t5end */
+    /* template 3 */
+    .templateView.bg-bluee.t3 .videoHolder .videos video ,
+    .templateView.bg-bluee.t3 .videoHolder .videos iframe {
+        min-height: 256px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents h2 {
+        font-size: 36px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents p {
+        font-size: 18px;
+    }
+    /* t3end */
+   /* template 2 */
+   .templateView.bg-bluee.t2 .videoHolder {
+    padding: 20px 50px;
+    }
+   /* t2end  */
+    header .navbar .navbar-nav .nav-item {
+        padding: 0 20px;
+    }
+    header .navbar {
+        padding: 5px 0;
+    }
+    header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+    }
+    .templateSec .controls .navHolder .sideA {
+        font-size: 18px;
+    }
+    .templateSec .controls#c5 .Icons {
+        padding: 0px 10px;
+    }
+    .templateSec .controls#c4 .input {
+        padding: 0px 15px;
+    }
+    .templateSec .controls#c1 .upload {
+        padding: 0px 15px;
+    }
+    .templateSec .controls#c1 .input {
+        padding: 0px 15px;
+    }
+    .templateSec .controls#c2 .colorPicker {
+        padding: 0px 15px;
+    }
+    .templateSec .templateView .items.videos .videoHolder {
+        margin-bottom: 10px;
+        background-color: #fff;
+        border-radius: 10px;
+        padding: 20px;
+    }
+    .templateSec .controls .titleHolder h2 .backBtn {
+        font-size: 28px;
+    }
+    .templateSec .controls .titleHolder h2 {
+        font-size: 25px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 35px;
+        height: 35px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 35px;
+        height: 20px;
+    }
+}
+@media(max-width:1200px){
+    /* template 5 */
+    .templateView.t5 .d-flex .second .videoHolder .videos video, .templateView.t5 .d-flex .second .videoHolder .videos iframe {
+        min-height: 280px;
+    }
+    /* t5end */
+    /* template 4 */
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe ,
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos video {
+        min-height: 190px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos {
+        width: 40%;
+        margin: 1%;
+    }
+    .templateView.bg-bluee.t4 .d-flex .profileContents .textContents ul li {
+        font-size: 18px;
+        padding: 0px 2%;
+    }
+    .templateView.bg-bluee.t4 .d-flex .profileContents .textContents h2 {
+        font-size: 40px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .profileContents .textContents p {
+        font-size: 18px;
+    }
+    /* t4end */
+    /* template 3 */
+    .templateView.bg-bluee.t3 .videoHolder .videos {
+        width: 22%;
+        margin: 1%;
+    }
+    .templateView.bg-bluee.t3 .videoHolder {
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .btn-pink {
+        border: 3px solid #ebebeb;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents ul li {
+        font-size: 16px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents ul {
+        border: 3px solid #ebebeb;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents h2 {
+        font-size: 30px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .textContents p {
+        font-size: 16px;
+    }
+    .templateView.bg-bluee.t3 .videoHolder .videos video, .templateView.bg-bluee.t3 .videoHolder .videos iframe {
+        min-height: 220px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents {
+        padding: 20px 10px;
+    }
+    /* t3end */
+    /* template 2 */
+    .templateView.bg-bluee.t2 .d-flex .profile-image .imageHolder {
+        width: 90%;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image .textContents h2 {
+        font-size: 25px;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image .textContents p {
+        font-size: 14px;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image .textContents li {
+        font-size: 16px;
+    }
+    .templateView.bg-bluee.t2 .videoHolder .videos iframe ,
+    .templateView.bg-bluee.t2 .videoHolder .videos video {
+        min-height: 170px;
+    }
+    /* t2end */
+    /* template1 */
+    .templateSec .templateView .items.bioContents {
+        padding: 20px;
+    }
+    .templateSec .templateView .items.videos .videoHolder {
+        padding: 10px;
+    }
+    .templateSec .templateView .items.profileContents .textContents li {
+        margin-bottom: 0px;
+        font-size: 18px;
+    }
+    .templateSec .templateView .btn-pink {
+        font-size: 16px;
+        padding: 4px 10px;
+    }
+    .templateSec .templateView .items.profileContents .textContents h2 {
+        font-size: 24px;
+    }
+    .templateSec .templateView .items.profileContents .imageHolder {
+        width: 70%;
+    }
+    .templateSec .templateView .items.profileContents .textContents h2 {
+        font-size: 24px;
+    }
+    .templateSec .templateView .items.profileContents .textContents p {
+        font-size: 12px;
+    }
+    /* t1end */
+    .templateSec .controls .floatingNote p {
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .templateSec .controls .floatingNote p.title {
+        font-size: 20px;
+        font-weight: 900;
+    }
+    .templateSec .controls .floatingNote {
+        padding: 20px 0px;
+    }
+    .templateSec .controls .titleHolder h2 .backBtn {
+        font-size: 28px;
+        top: -3px;
+    }
+    .templateSec .controls .titleHolder h2 {
+        font-size: 22px;
+    }
+    .templateSec .controls#c5 .input .form-control {
+        font-size: 18px;
+    }
+    .templateSec .controls#c5 .input label {
+        font-size: 18px;
+    }
+    .templateSec .controls#c5 .Icons .socialIconHolder .socialList .socialItem {
+        font-size: 30px;
+    }
+    .templateSec .controls#c4 .input .form-control {
+        font-size: 18px;
+    }
+    .templateSec .controls#c4 .input label {
+        font-size: 18px;
+    }
+    .templateSec .controls#c3 .video .btn-pink {
+        font-size: 16px;
+    }
+    .templateSec .controls#c3 .video .form-control {
+        font-size: 15px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 30px;
+        height: 20px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 30px;
+        height: 30px;
+    }
+    .btn-pink {
+        font-size: 15px;
+        padding: 6px 20px;
+    }
+    .templateSec .controls#c1 .input .form-control {
+        font-size: 18px;
+        color: #495057;
+        background-color: #e5e5e5;
+        border: none;
+    }
+    .templateSec .controls#c1 .input label {
+        font-size: 18px;
+        font-family: 'Montserrat-Medium';
+    }
+    .templateSec .controls#c1 .upload {
+        height: 200px;
+    }
+    .upload .drag-text h3 {
+        font-size: 16px;
+    }
+    .templateSec .controls#c1 .upload {
+        padding: 0px 30px;
+    }
+    .templateSec .controls#c1 .input {
+        padding: 0px 30px;
+    }
+    .templateSec .controls .titleHolder {
+        padding: 20px 0px;
+        margin: 20px auto;
+        text-align: center;
+    }
+    .templateSec .controls .navHolder .sideA {
+        font-size: 15px;
+        padding: 20px;
+        margin: 10px 0px;
+    }
+}
+@media(max-width:1024px){
+    /* template 5 */
+    .templateSec .templateView.t5 {
+        padding: 10px;
+    }
+    .templateView.t5 .d-flex .second .videoHolder .videos video, .templateView.t5 .d-flex .second .videoHolder .videos iframe {
+        min-height: 228px;
+    }
+    /* t4end */
+    /* template 4 */
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe, .templateView.bg-bluee.t4 .d-flex .videoHolder .videos video {
+        min-height: 174px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos {
+        width: 46%;
+        margin: 1%;
+    }
+    .templateView.bg-bluee.t4 .bioContents {
+        padding: 20px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe, .templateView.bg-bluee.t4 .d-flex .videoHolder .videos video {
+        min-height: 154px;
+    }
+    /* t4 end */
+    /* template 3 */
+    .templateView.bg-bluee.t3 .d-flex .profileContents {
+        margin-left: 10px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .bioContents {
+        margin-left: 10px;
+        padding: 20px 10px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .imageHolder {
+        padding: 20px 0px;
+    }
+    .templateView.bg-bluee.t3 .videoHolder .videos video, .templateView.bg-bluee.t3 .videoHolder .videos iframe {
+        min-height: 160px;
+    }
+    /* t3end */
+    .templateSec .controls#c5 .Icons .texts p {
+        font-family: 'Montserrat-Regular';
+        font-size: 19px;
+        font-weight: 900;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .templateSec .controls#c5 .Icons .socialIconHolder .socialList .socialItem {
+        font-size: 25px;
+    }
+    .templateSec .controls .titleHolder h2 .backBtn {
+        font-size: 28px;
+        top: -6px;
+    }
+    .templateSec .controls#c2 .templatePicker .templateBox {
+        margin: 30px auto;
+        background-color: #e5e5e5;
+        width: 100%;
+        height: 180px;
+    }
+    .templateSec .controls#c3 .video p{
+        font-size: 13px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 25px;
+        height: 15px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 25px;
+        height: 25px;
+    }
+    .templateSec .controls .titleHolder h2 {
+        font-size: 19px;
+    }
+}
+@media(max-width:992px){
+    /* template 4 */
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe, .templateView.bg-bluee.t4 .d-flex .videoHolder .videos video {
+        min-height: 168px;
+    }
+    /* t4end */
+    /* template 2 */
+    .templateView.bg-bluee.t2 .videoHolder .videos iframe, .templateView.bg-bluee.t2 .videoHolder .videos video {
+        min-height: 156px;
+    }
+    .templateView.bg-bluee.t2 .videoHolder .videos {
+        margin: 1%;
+        width: 22%;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image {
+        width: 35%;
+        padding: 10px;
+        margin-top: -86px;
+    }
+    /* t2end */
+    .templateSec .controls#c4 .input label {
+        font-size: 16px;
+    }
+    .templateSec .controls#c4 .input .form-control {
+        font-size: 16px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 20px;
+        height: 20px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 20px;
+        height: 15px;
+    }
+}
+@media(max-width:768px){
+    /* template 5 */
+    .templateView.t5 .d-flex .second {
+        width: 100%;
+    }
+    .templateView.t5 .d-flex .first .profileContents {
+        margin: 20px auto;
+    }
+    .templateView.t5 .d-flex .first {
+        width: 100%;
+
+    }
+    .templateView.t5 .d-flex .first .profileContents .imageHolder {
+        width: 40%;
+    }
+    .templateView.t5 .d-flex {
+        display: block!important;
+    }
+    /* t5end */
+    /* template 4 */
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe, .templateView.bg-bluee.t4 .d-flex .videoHolder .videos video {
+        min-height: 236px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .videoHolder {
+        padding: 0px ;
+        width: 100%;
+    }
+    .templateView.bg-bluee.t4 .d-flex .profileContents {
+        width: 100%;
+        text-align: center;
+        margin: 20px 0px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .profileContents .imageHolder {
+        width: 30%;
+        padding: 20px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .templateView.bg-bluee.t4 .d-flex  {
+       display: block !important;
+    }
+    /* t4end */
+    /* template 3 */
+    .templateView.bg-bluee.t3 .d-flex .imageHolder img {
+        height: 50vh;
+    }
+    .templateView.bg-bluee.t3 .videoHolder .videos {
+        width: 45%;
+        margin: 1%;
+    }
+    .templateView.bg-bluee.t3 .videoHolder .videos video, .templateView.bg-bluee.t3 .videoHolder .videos iframe {
+        min-height: 230px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .bioContents {
+        width: 100%;
+    }
+    .templateView.bg-bluee.t3 .d-flex .imageHolder {
+        padding: 20px ;
+        width: 50%;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents {
+        width: 40%;
+
+    }
+    .templateView.bg-bluee.t3 .d-flex {
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    /* t3end */
+    /* template 2 */
+    .templateView.bg-bluee.t2 .videoHolder .videos iframe, .templateView.bg-bluee.t2 .videoHolder .videos video {
+        min-height: 230px;
+    }
+    .templateView.bg-bluee.t2 .videoHolder .videos {
+        margin: 1%;
+        width: 45%;
+    }
+    .templateView.bg-bluee.t2 .videoHolder {
+        padding: 20px 0px;
+        border-radius:0px 0px 10px 10px ;
+
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-about {
+        width: 100%;
+        margin: 0;
+    }
+    .templateView.bg-bluee.t2 .d-flex .profile-image {
+        width: 100%;
+        padding: 10px;
+        margin-top: -100px;
+    }
+    .templateView.bg-bluee.t2 .d-flex {
+        display: block !important;
+        border-radius: 10px 10px 0px 0px;
+    }
+    /* t2end */
+    /* template 1 */
+    .templateSec .templateView .items {
+        padding: 0px;
+        flex: unset;
+        max-width: unset;
+        width: 100%;
+    }
+    .templateSec .templateView .items.bioContents {
+        padding: 20px;
+        flex: unset;
+        max-width: unset;
+        margin: 20px 0px;
+    }
+    .templateSec .templateView .items.profileContents {
+        width: 100%;
+        text-align: center;
+        margin: 20px 0px;
+        flex: unset;
+        max-width: unset;
+    }
+    /* t1end */
+    .templateSec .controls#c5 .Icons .socialIconHolder .socialList .socialItem {
+        width: 15%;
+        margin: 5px 10px;
+    }
+    .templateSec .controls .navHolder .sideA {
+        font-size: 18px;
+        padding: 25px;
+        margin: 15px 0px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 15%;
+        height: 20px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 15%;
+        height: 35px;
+    }
+    .templateSec .templateView.quartWidth {
+       display: none;
+    }
+    .templateSec .controls {
+        display: none;
+        position: absolute;
+        width: 100%;
+        margin-left: 0;
+    }
+}
+@media(max-width:525px){
+    /* template 5 */
+    .templateView.t5 .d-flex .second .videoHolder .videos {
+        width: 90%;
+        margin: 1%;
+    }
+    /* t5end */
+    /* template 4 */
+    .templateView.bg-bluee.t4 .d-flex .profileContents .imageHolder {
+        width: 50%;
+        padding: 20px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos {
+        width: 90%;
+        margin: 1%;
+    }
+    .templateView.bg-bluee.t4 .bioContents {
+        padding: 20px;
+        margin: 0px;
+    }
+    .templateView.bg-bluee.t4 .d-flex .videoHolder .videos iframe, .templateView.bg-bluee.t4 .d-flex .videoHolder .videos video {
+        min-height: 187px;
+    }
+    /* t4end */
+    /* template 3 */
+    .templateView.bg-bluee.t3 .d-flex .imageHolder img {
+        border-radius: 10px;
+    }
+    .templateView.bg-bluee.t3 .videoHolder .videos {
+        width: 95%;
+        margin: 1%;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents {
+        padding: 0px 10px;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents {
+        width: 100%;
+    }
+    .templateView.bg-bluee.t3 .d-flex .imageHolder {
+        padding: 20px;
+        width: 100%;
+    }
+    .templateView.bg-bluee.t3 .d-flex .profileContents .btnHolder{
+        text-align: left !important;
+    }
+    /* t3end */
+    /* template 2  */
+
+    .templateSec .templateView {
+        padding: 10px 5px;
+    }
+    .templateView.bg-bluee.t2 .videoHolder .videos {
+        margin: 2%;
+        width: 85%;
+    }
+    .templateView.bg-bluee.t2 .videoHolder .videos iframe, .templateView.bg-bluee.t2 .videoHolder .videos video {
+        min-height: 156px;
+    }
+    /* t2end */
+    .templateSec .controls#c5 .Icons .socialIconHolder .socialList .socialItem {
+        font-size: 18px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 14%;
+        height: 35px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 14%;
+        height: 20px;
+    }
+}
+@media(max-width:375px){
+    .templateSec .controls#c2 .colorPicker .colorList .colorItem {
+        width: 13%;
+        height: 35px;
+    }
+    .templateSec .controls#c2 .colorPicker .colorShade .colorShadeItem {
+        width: 13%;
+        height: 20px;
+    }
+}
